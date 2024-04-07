@@ -9,8 +9,11 @@ import DonateForm from './components/DonateForm'
 import Profile from './components/Profile'
 import Error from './components/Error'
 import './index.css'
+<<<<<<< HEAD
 import Login from "./components/Login";
 import SignUP from "./components/SignUp";
+=======
+>>>>>>> a39acc63b51c94424afe25ab702401d5bd3b5c25
  // call createBrowserRouter for routing different pages
 const appRouter = createBrowserRouter([
   {

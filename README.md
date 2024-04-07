@@ -1,4 +1,5 @@
 # React + Vite
+ppt-link : https://docs.google.com/presentation/d/1aoaRfpRC2WzUQ8xBWNlM3SccP0T01j1f/edit?usp=drivesdk&ouid=100067779873882937925&rtpof=true&sd=true
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
